@@ -1,0 +1,5 @@
+Flask
+nltk
+scikit-learn
+google-genai
+python-dotenv

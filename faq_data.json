@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What are the college working hours?",
+        "answer": "The college working hours are generally from 8:30 AM to 4:30 PM on working days."
+    },
+    {
+        "question": "How can I apply for leave?",
+        "answer": "Students can apply for leave through the college's prescribed leave or OD application process and obtain the required approval."
+    },
+    {
+        "question": "What is the attendance requirement?",
+        "answer": "Students are expected to maintain the minimum attendance percentage specified by the college regulations."
+    },
+    {
+        "question": "Where is the library located?",
+        "answer": "The college library is located inside the main academic campus and provides books, journals and digital learning resources."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library is generally open during college working hours. Students should check the latest notice for exact timings."
+    },
+    {
+        "question": "How can I contact the college office?",
+        "answer": "You can contact the college administrative office through the official college contact details."
+    },
+    {
+        "question": "What courses are offered?",
+        "answer": "The college offers undergraduate and postgraduate programmes in various engineering and technology disciplines."
+    },
+    {
+        "question": "How can I get placement information?",
+        "answer": "Placement information is usually shared by the Training and Placement Cell through official college announcements and student communication channels."
+    },
+    {
+        "question": "Does the college provide hostel facilities?",
+        "answer": "Yes, hostel facilities may be available for eligible students. Students can contact the hostel administration for admission and accommodation details."
+    },
+    {
+        "question": "How can I pay my college fees?",
+        "answer": "Students can pay their fees through the payment method specified by the college administration."
+    },
+    {
+        "question": "When are semester examinations conducted?",
+        "answer": "Semester examinations are conducted according to the academic calendar published by the college."
+    },
+    {
+        "question": "How can I get my exam timetable?",
+        "answer": "The examination timetable is normally published through the college's official communication channels."
+    },
+    {
+        "question": "How can I register for a course?",
+        "answer": "Course registration is completed according to the academic regulations and instructions provided by the department or college."
+    },
+    {
+        "question": "What should I do if I lose my ID card?",
+        "answer": "Report the lost ID card to the concerned college office and follow the procedure for obtaining a replacement ID card."
+    },
+    {
+        "question": "Does the college conduct technical events?",
+        "answer": "Yes, colleges commonly conduct technical symposiums, workshops, hackathons and other academic events."
+    }
+]
